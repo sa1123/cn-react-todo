@@ -1,0 +1,23 @@
+.task {
+  width: 90%;
+  margin: 7px auto 2%;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  align-items: center;
+  background-color: beige;
+  flex-wrap: wrap;
+  box-shadow: 6px 6px 4px rgb(124, 155, 155);
+}
+
+.task .icons {
+  display: flex;
+  gap: 1.3rem;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.task .icons .up{
+  color: red;
+}
