@@ -1,5 +1,7 @@
 Todolist React app
 
+![image](https://github.com/sa1123/cn-react-todo/assets/51375919/ec120152-8b0c-443d-9e07-2a457ca1ede6)
+
 Problem statement
 Create a Todolist app.
 
