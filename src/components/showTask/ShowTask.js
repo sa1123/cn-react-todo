@@ -9,7 +9,7 @@ const ShowTask = (props) => {
           <div key={post.id} className={Class.task}>
             <h2>{post.title}</h2>
             <div className={Class.icons}>
-              <ion-icon className={Class.up}
+              <ion-icon
                 onClick={() => {
                   props.updateHandler(post, true);
                 }}
