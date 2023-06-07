@@ -21,6 +21,7 @@
   font-size: 1.7rem;
   font-family: "Courier New", Courier, monospace;
   font-weight: 600;
+  margin: 1% 0 1% 0;
 }
 
 .taskContainer form input {
@@ -29,6 +30,7 @@
   font-size: 1rem;
   font-family: "Courier New", Courier, monospace;
   letter-spacing: 0.3px;
+  margin: 5%;
 }
 .taskContainer form input:focus {
   border: solid 4px cyan;
